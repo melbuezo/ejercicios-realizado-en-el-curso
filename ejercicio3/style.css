@@ -1,0 +1,16 @@
+/*columnas*/
+
+
+td.col2 { background-color: red; }
+td.col3 { background-color: green; }
+td.col4 { background-color: blue; }
+
+
+.teal { color: teal; }
+.red { color: red; }
+.blue { color: blue; }
+.orange { color: orange; }
+.purple { color: purple; }
+.olive { color: olive; }
+.fuchsia { color: fuchsia; }
+.green { color: green; }

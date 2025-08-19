@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: #e3f2fd;
+  text-align: center;
+  padding-top: 50px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.correcto {
+  color: green;
+  font-weight: bold;
+}
+
+.incorrecto {
+  color: red;
+  font-weight: bold;
+}
+
