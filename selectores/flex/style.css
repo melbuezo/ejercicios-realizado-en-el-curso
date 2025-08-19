@@ -1,0 +1,19 @@
+.contenedor{
+    display: flex;
+    background: lightgrey;
+    padding: 10px;
+}
+
+.caja{
+    background: skyblue;
+    padding: 20px;
+    margin: 10px;
+    border: 20px solid red;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: pink;
+    
+}

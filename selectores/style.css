@@ -1,0 +1,24 @@
+.caja {
+    width: 300px;
+    background-color: aqua;
+    /*padding: 40px 20px 10px 10px;
+    margin: 10px 20px 10px 10px ;
+    */
+    padding-left: 20px;
+    padding-right: 60px;
+    padding-top: 45px;
+    padding-bottom: 35px;
+    border: 20px solid red;
+}
+
+
+
+.parrafo{
+    width: 300px;
+    border: 20px solid red;
+    padding-right: 60px;
+    padding-left: 20px;
+    padding-top: 45px;
+    padding-bottom: 35px;
+    background-color: blue;
+}

@@ -1,0 +1,22 @@
+.bloque{
+    display: block;
+    background-color: aqua;
+    margin: 10px;
+
+}
+
+.enlinea{
+    display: inline-block;
+    background-color: blueviolet;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+
+}
+.clase3{
+    display: inline-block;
+    background-color: pink;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+}
